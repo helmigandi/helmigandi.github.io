@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Operating System on helmigandi</title>
+    <link>https://helmigandi.github.io/categories/operating-system/</link>
+    <description>Recent content in Operating System on helmigandi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Dec 2021 15:15:25 +0700</lastBuildDate><atom:link href="https://helmigandi.github.io/categories/operating-system/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenSSH Tutorial</title>
+      <link>https://helmigandi.github.io/posts/2021/openssh-tutorial/</link>
+      <pubDate>Fri, 03 Dec 2021 15:15:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2021/openssh-tutorial/</guid>
+      <description>I. Installation OpenSSH   Install on Ubuntu client:
+sudo apt install openssh-client   Install OpenSSH on server in VirtualBox:
+sudo apt install openssh-server   II. Inspect OpenSSH   Basic checking command OpenSSH:
+sudo systemctl start ssh sudo systemctl stop ssh sudo systemctl restart ssh sudo systemctl status ssh   Install Netstat:
+sudo apt install net-tools   Run command below for showing all port connection:</description>
+    </item>
+    
+    <item>
+      <title>Shared Folder Feature, Shared Clipboard dan Drag and Drop in VirtualBox</title>
+      <link>https://helmigandi.github.io/posts/2021/shared-folder-feature-shared-clipboard-drag-drop-vbox/</link>
+      <pubDate>Fri, 03 Dec 2021 15:15:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2021/shared-folder-feature-shared-clipboard-drag-drop-vbox/</guid>
+      <description>In this tutorial we send files from Linux Operating System to Windows or Linux in Virtualbox.
+I. Configure VirtualBox  Configure Virtualbox Image
+   Choose Operating System in VirtualBox. Click Settings menu. Choose Shared Folders tab. Click Adds new shared folder at the right window. Add Share Pop up will show . In the Folder Path, choose directory that use as sharing directory. Folder Name is the directory that we will use.</description>
+    </item>
+    
+    <item>
+      <title>Cut and Make Video Into Gif</title>
+      <link>https://helmigandi.github.io/posts/2021/cut-and-make-video-into-gif/</link>
+      <pubDate>Tue, 12 Oct 2021 15:15:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2021/cut-and-make-video-into-gif/</guid>
+      <description>I. Installation sudo apt-get install ffmpeg II. First Way Use This way the video is cut and converted into a gif.
+  Cut the video to be in accordance with the duration we want:
+ffmpeg -i original.mp4 -ss 00:03:20 -c copy -t 00:00:30 output.mp4 Notes:
+ -i: Input file. original.mp4: Video name. -ss: Create video from minute 00:03:20. -t: Video duration is 30 seconds. output.mp4: Name of new video.    Change the video whose duration we have set into a Gif.</description>
+    </item>
+    
+    <item>
+      <title>Format Flash drive in Linux</title>
+      <link>https://helmigandi.github.io/posts/2020/format-flash-drive-in-linux/</link>
+      <pubDate>Wed, 27 May 2020 17:19:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2020/format-flash-drive-in-linux/</guid>
+      <description>Here&amp;rsquo;s how to format a Flash Drive using the Command Line in Linux Terminal.
+I. Identify the location of The Flash Drive installed in the linux system lsblk The result is:
+NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT sda 8:0 0 111,8G 0 disk ├─sda1 8:1 0 549M 0 part ├─sda2 8:2 0 56,3G 0 part └─sda3 8:3 0 55G 0 part / sdd 8:16 1 3,7G 0 disk └─sdd1 8:17 1 3,7G 0 part /media/helmiz/HELMI &amp;lt;&amp;lt;&amp;lt; My Flash Drive sr0 11:0 1 1024M 0 rom II.</description>
+    </item>
+    
+    <item>
+      <title>Modify The Linux Terminal Appearance With Gogh</title>
+      <link>https://helmigandi.github.io/posts/2020/modify-the-linux-terminal-appearance-with-gogh/</link>
+      <pubDate>Wed, 27 May 2020 17:19:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2020/modify-the-linux-terminal-appearance-with-gogh/</guid>
+      <description>The main requirements for the Linux Terminal to be used are Gnome Terminal, Pantheon Terminal, Tilix and XFCE4 Terminal.
+I. Installation   Pre-Install in ubuntu:
+sudo apt-get install dconf-cli uuid-runtime   Terminal with Bash:
+bash -c &amp;#34;$(wget -qO- https://git.io/vQgMr)&amp;#34;   Choose the number of color schemes:
+  █████████ █████  ███ ███ ███  ███ ██████ ███████ ███████  ███ ███ ███ ███ ███ ███ ███  ███ █████ ███ ███ ███ ███ ███ ███  ███ ███ ███ ███ ███ ███ ███ ███  █████████ ██████ ███████ ████ █████  ████████████████████████████████████████████████████████████████████████  ████████████████████████████████████████████████████████████████████████  ████████████████████████████████████████████████████████████████████████  ████████████████████████████████████████████████████████████████████████  ████████████████████████████████████████████████████████████████████████  ████████████████████████████████████████████████████████████████████████  Themes:  ( 01 ) 3024 Day  ( 02 ) 3024 Night  ( 03 ) Aci  ( 04 ) Aco  ( 05 ) Adventuretime   .</description>
+    </item>
+    
+    <item>
+      <title>Create Bootable Linux in Linux</title>
+      <link>https://helmigandi.github.io/posts/2020/create-bootable-linux-in-linux/</link>
+      <pubDate>Tue, 26 May 2020 19:00:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2020/create-bootable-linux-in-linux/</guid>
+      <description>In this tutorial I want to install Linux on my laptop using a flash drive. with dd command in the linux terminal. Here are the steps:
+I. Identify the location of The Flash Drive installed in the linux system lsblk The result is:
+NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINT sda 8:0 0 111,8G 0 disk ├─sda1 8:1 0 549M 0 part ├─sda2 8:2 0 56,3G 0 part └─sda3 8:3 0 55G 0 part / sdd 8:16 1 3,7G 0 disk └─sdd1 8:17 1 3,7G 0 part /media/helmiz/HELMI &amp;lt;&amp;lt;&amp;lt; My Flash Drive sr0 11:0 1 1024M 0 rom II.</description>
+    </item>
+    
+    <item>
+      <title>Remove Linux Dual Boot With Windows MBR Partition</title>
+      <link>https://helmigandi.github.io/posts/2020/remove-linux-dual-boot-with-windows-mbr-partition/</link>
+      <pubDate>Tue, 26 May 2020 18:27:25 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2020/remove-linux-dual-boot-with-windows-mbr-partition/</guid>
+      <description>How to remove Linux Operating System Dual Boot with Windows Operating System With MBR Partition. Here are the steps:
+1. Install Mini Tool Partition Wizard  Download free at Partition Wizard Website.  2. Check whether our disk uses MBR or not  Open Disk Management in Windows search. Right click on our Hard drive (usually Hard drive 0). Select Properties and click the Volumes section Tab. Look at the picture below:   Disk Management Window Image</description>
+    </item>
+    
+    <item>
+      <title>How to Create Application Menu in Linux</title>
+      <link>https://helmigandi.github.io/posts/2020/how-to-create-application-menu-in-linux/</link>
+      <pubDate>Sun, 05 Jan 2020 13:30:15 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2020/how-to-create-application-menu-in-linux/</guid>
+      <description>The Steps   Open terminal or console linux and type code below
+sudo gedit /usr/share/applications/application_name.desktop Notes:
+ application_name: The application that we show in Application Menu. gedit: Text editor like nano/vi.    Add Config to the text editor:
+[Desktop Entry] Encoding=UTF-8 Exec=/home/helmiz/tools/eclipse/eclipse Icon=/home/helmiz/tools/eclipse/icon.xpm Type=Application Terminal=false Comment=Eclipse Integrated Development Environment Name=Eclipse 2019 GenericName=eclipse-2019-12-R StartupNotify=false Categories=Development;IDE;Java; Notes:
+ Exec: Path file where our application saved. Icon: Path file where our application icon saved.</description>
+    </item>
+    
+  </channel>
+</rss>
