@@ -5,7 +5,29 @@
     <link>https://helmigandi.github.io/</link>
     <description>Recent content on helmigandi</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 03 Dec 2021 15:15:25 +0700</lastBuildDate><atom:link href="https://helmigandi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 17:35:11 +0700</lastBuildDate><atom:link href="https://helmigandi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download Youtube videos with yt-dl</title>
+      <link>https://helmigandi.github.io/posts/2022/download-video-with-yt-dlp/</link>
+      <pubDate>Mon, 29 Aug 2022 17:35:11 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2022/download-video-with-yt-dlp/</guid>
+      <description>Download/Installation Yt-dlp github official.
+Download Video Check video format list:
+yt-dlp -F [URL....] example output:
+[info] Available formats for 2lAe1cqCOXo: format code extension resolution note 249 webm audio only tiny 60k , opus @ 50k (48000Hz), 2.02MiB 250 webm audio only tiny 78k , opus @ 70k (48000Hz), 2.66MiB 140 m4a audio only tiny 130k , m4a_dash container, mp4a.40.2@128k (44100Hz), 5.20MiB 251 webm audio only tiny 147k , opus @160k (48000Hz), 5.</description>
+    </item>
+    
+    <item>
+      <title>Spring Logging</title>
+      <link>https://helmigandi.github.io/posts/2022/spring-logging/</link>
+      <pubDate>Mon, 29 Aug 2022 17:14:21 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2022/spring-logging/</guid>
+      <description>Dependency Lombok Log Format Default output from Spring Boot:
+2019-03-05 10:57:51.112 INFO 45469 --- [ main] org.apache.catalina.core.StandardEngine : Starting Servlet Engine: Apache Tomcat/7.0.52 2019-03-05 10:57:51.253 INFO 45469 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext 2019-03-05 10:57:51.253 INFO 45469 --- [ost-startStop-1] o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 1358 ms 2019-03-05 10:57:51.698 INFO 45469 --- [ost-startStop-1] o.s.b.c.e.ServletRegistrationBean : Mapping servlet: &amp;#39;dispatcherServlet&amp;#39; to [/] 2019-03-05 10:57:51.702 INFO 45469 --- [ost-startStop-1] o.s.b.c.embedded.FilterRegistrationBean : Mapping filter: &amp;#39;hiddenHttpMethodFilter&amp;#39; to: [/*] Notes:</description>
+    </item>
+    
     <item>
       <title>OpenSSH Tutorial</title>
       <link>https://helmigandi.github.io/posts/2021/openssh-tutorial/</link>

@@ -3,10 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://helmigandi.github.io/categories/</loc>
-    <lastmod>2021-12-03T15:15:25+07:00</lastmod>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/tags/download/</loc>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/posts/2022/download-video-with-yt-dlp/</loc>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
   </url><url>
     <loc>https://helmigandi.github.io/</loc>
-    <lastmod>2021-12-03T15:15:25+07:00</lastmod>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/posts/</loc>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/tags/</loc>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/categories/tips/</loc>
+    <lastmod>2022-08-29T17:35:11+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/tags/logging/</loc>
+    <lastmod>2022-08-29T17:14:21+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/categories/spring/</loc>
+    <lastmod>2022-08-29T17:14:21+07:00</lastmod>
+  </url><url>
+    <loc>https://helmigandi.github.io/posts/2022/spring-logging/</loc>
+    <lastmod>2022-08-29T17:14:21+07:00</lastmod>
   </url><url>
     <loc>https://helmigandi.github.io/tags/linux/</loc>
     <lastmod>2021-12-03T15:15:25+07:00</lastmod>
@@ -17,13 +41,7 @@
     <loc>https://helmigandi.github.io/categories/operating-system/</loc>
     <lastmod>2021-12-03T15:15:25+07:00</lastmod>
   </url><url>
-    <loc>https://helmigandi.github.io/posts/</loc>
-    <lastmod>2021-12-03T15:15:25+07:00</lastmod>
-  </url><url>
     <loc>https://helmigandi.github.io/posts/2021/shared-folder-feature-shared-clipboard-drag-drop-vbox/</loc>
-    <lastmod>2021-12-03T15:15:25+07:00</lastmod>
-  </url><url>
-    <loc>https://helmigandi.github.io/tags/</loc>
     <lastmod>2021-12-03T15:15:25+07:00</lastmod>
   </url><url>
     <loc>https://helmigandi.github.io/posts/2021/cut-and-make-video-into-gif/</loc>

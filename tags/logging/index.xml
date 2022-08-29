@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>logging on helmigandi</title>
+    <link>https://helmigandi.github.io/tags/logging/</link>
+    <description>Recent content in logging on helmigandi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Aug 2022 17:14:21 +0700</lastBuildDate><atom:link href="https://helmigandi.github.io/tags/logging/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Logging</title>
+      <link>https://helmigandi.github.io/posts/2022/spring-logging/</link>
+      <pubDate>Mon, 29 Aug 2022 17:14:21 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2022/spring-logging/</guid>
+      <description>Dependency Lombok Log Format Default output from Spring Boot:
+2019-03-05 10:57:51.112 INFO 45469 --- [ main] org.apache.catalina.core.StandardEngine : Starting Servlet Engine: Apache Tomcat/7.0.52 2019-03-05 10:57:51.253 INFO 45469 --- [ost-startStop-1] o.a.c.c.C.[Tomcat].[localhost].[/] : Initializing Spring embedded WebApplicationContext 2019-03-05 10:57:51.253 INFO 45469 --- [ost-startStop-1] o.s.web.context.ContextLoader : Root WebApplicationContext: initialization completed in 1358 ms 2019-03-05 10:57:51.698 INFO 45469 --- [ost-startStop-1] o.s.b.c.e.ServletRegistrationBean : Mapping servlet: &amp;#39;dispatcherServlet&amp;#39; to [/] 2019-03-05 10:57:51.702 INFO 45469 --- [ost-startStop-1] o.s.b.c.embedded.FilterRegistrationBean : Mapping filter: &amp;#39;hiddenHttpMethodFilter&amp;#39; to: [/*] Notes:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tips on helmigandi</title>
+    <link>https://helmigandi.github.io/categories/tips/</link>
+    <description>Recent content in Tips on helmigandi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 29 Aug 2022 17:35:11 +0700</lastBuildDate><atom:link href="https://helmigandi.github.io/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download Youtube videos with yt-dl</title>
+      <link>https://helmigandi.github.io/posts/2022/download-video-with-yt-dlp/</link>
+      <pubDate>Mon, 29 Aug 2022 17:35:11 +0700</pubDate>
+      
+      <guid>https://helmigandi.github.io/posts/2022/download-video-with-yt-dlp/</guid>
+      <description>Download/Installation Yt-dlp github official.
+Download Video Check video format list:
+yt-dlp -F [URL....] example output:
+[info] Available formats for 2lAe1cqCOXo: format code extension resolution note 249 webm audio only tiny 60k , opus @ 50k (48000Hz), 2.02MiB 250 webm audio only tiny 78k , opus @ 70k (48000Hz), 2.66MiB 140 m4a audio only tiny 130k , m4a_dash container, mp4a.40.2@128k (44100Hz), 5.20MiB 251 webm audio only tiny 147k , opus @160k (48000Hz), 5.</description>
+    </item>
+    
+  </channel>
+</rss>
